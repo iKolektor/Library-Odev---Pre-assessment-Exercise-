@@ -1,7 +1,7 @@
-# Odev Solution Development Pre-Assessment  
+# OdevS Development Assessment  
 ## Library Management System
 
-This repository contains my submission for the **Odev Solution Pre-Assessment Exercise – Library Management System** for Odev Solutions.
+This repository contains my submission for the **OdevS Pre-Assessment Exercise – Library Management System** for Odev Solutions.
 
 ---
 
@@ -23,8 +23,9 @@ The solution can be tested by:
 1. Creating a new Book Category.
 2. Attempting to create a duplicate category (should be restricted).
 3. Creating a new Book and assigning an Author and Category.
- 
-Screen Recording : 
+
+A screen recording demonstrating these steps is included.  
+Additional video: 
 [Google Drive link](https://drive.google.com/file/d/1nas0QB_z74t46t-zriliaz17TPhUKHGL/view?usp=drive_link)
 
 ---
