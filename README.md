@@ -1,7 +1,7 @@
-# OdevS Development Assessment  
+# Odev Solution Development Pre-Assessment  
 ## Library Management System
 
-This repository contains my submission for the **OdevS Pre-Assessment Exercise – Library Management System** for Odev Solutions.
+This repository contains my submission for the **Odev Solution Pre-Assessment Exercise – Library Management System** for Odev Solutions.
 
 ---
 
