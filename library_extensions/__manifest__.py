@@ -1,5 +1,5 @@
 {
-    "name": "Library Extentions",
+    "name": "Library Extensions",
     "version": "18.0.1.0",
     "author": "Daniel Ryan Bondad",
     "depends": ["library"],
